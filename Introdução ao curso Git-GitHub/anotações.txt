@@ -1,0 +1,13 @@
+Comandos basicos para terminal cmd
+Windows:
+-cd
+-dir
+-mkdir
+-del/rmdir
+
+Comandos git-github
+-git init
+-git clone
+-git status
+-git add *
+-git commit
